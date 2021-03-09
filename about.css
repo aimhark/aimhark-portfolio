@@ -1,0 +1,49 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    font-family: 62.5%;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Abril Fatface', cursive;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+}
+
+/* .line {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    position: relative;
+    top: 25%;
+    margin: 0 auto;
+    border-right: 2px solid rgba(255, 255, 255, 0.75);
+    font-size: 500%;
+    /* text-align: center;
+    white-space: nowrap; */
+    overflow: hidden;
+}
+
+.type {
+    animation: typewriter 4s steps(256) 1s 1 normal forwards, cursor 0.5s infinite normal;
+}
+
+@keyframes typewriter {
+    from {
+        width: 0;
+    }
+    to {
+        width: 43%;
+    }
+}
+
+@keyframes cursor {
+    from {
+        border-right-color: transparent;
+    }
+} */
